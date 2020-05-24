@@ -1,0 +1,12 @@
+name: corona-prediction
+title: corona-prediction
+username:
+account: jennyeeriksson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2330515
+bundleId: 3170550
+url: https://jennyeeriksson.shinyapps.io/corona-prediction/
+when: 1589982529.37848
+asMultiple: FALSE
+asStatic: FALSE
