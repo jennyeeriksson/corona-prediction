@@ -38,7 +38,7 @@ incremental: true
 
 The application
 ========================================================
-Go to the [official app]("https://jennyeeriksson.shinyapps.io/corona-prediction/") for a full view.
+Go to the [official app](https://jennyeeriksson.shinyapps.io/corona-prediction) for a full view.
 
 The app works in the way that the user clicks a country (onyl the ones with confirmed cases>500 will be displayed), decides how many days should be forecasted and then view the result in the graph below.
 
