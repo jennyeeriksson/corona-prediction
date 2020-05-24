@@ -50,7 +50,7 @@ Technical details
 incremental: true
 - Data
 
-    The data comes from [John Hopking University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+    The data comes from [John Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 Each time the server is called the latest data is fetched and cleaned into a tidy dataset, grouping the reported cases for each country.
 
 
